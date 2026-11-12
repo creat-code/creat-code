@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![snake](https://raw.githubusercontent.com/creat-code/creat-code/output/snake.svg)
+[![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/6ZHwEtrUbE?theme=dark&show=graph&card_width=1200)](https://leetcode.com/6ZHwEtrUbE)
